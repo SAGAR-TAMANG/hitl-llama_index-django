@@ -1,0 +1,7 @@
+channels
+colorama==0.4.6
+Django==5.1.4
+fastapi==0.115.6
+llama_index==0.12.10
+portkey_ai==1.10.0
+python-dotenv==1.0.1
